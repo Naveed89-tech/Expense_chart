@@ -22,9 +22,4 @@ function ChartRow(props) {
 }
 export default ChartRow;
 
-// {/* <tr style={{ height: "35%" }}>
-// <th scope="row">{spending[1].day}</th>
-// <td className={`${isCurrentDay(1)}`}>
-//   <span>${spending[1].amount}</span>
-// </td>
-// </tr> */}
+

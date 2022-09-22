@@ -57,24 +57,7 @@ textarea {
       margin-bottom: 1rem;
     }
 
-    /* .graph tbody:before,
-    .graph tbody:after {
-      position: absolute;
-      left: -3.2em;
-      width: 2.8em;
-      text-align: right;
-      font: bold 80%/120% arial, helvetica, sans-serif;
-    } */
-
-    /* .graph tbody:before {
-      content: "100%";
-      top: -0.6em;
-    } */
-
-    /* .graph tbody:after {
-      content: "0%";
-      bottom: -0.6em;
-    } */
+   
 
     .graph tr {
       position: relative;
