@@ -1,0 +1,26 @@
+.balance_container {
+  display: flex;
+  justify-content: space-between;
+  justify-items: center;
+  padding: 1rem 2rem;
+  background-color: #ec775f;
+  gap: 3rem;
+  border-radius: 0.75rem;
+  font-size: 0.65rem;
+  color: #fffaf5;
+  max-width: 100%;
+}
+.balance {
+  align-self: center;
+}
+.balance_amount {
+  font-size: 1.4rem;
+  color: #fffaf5;
+  font-weight: 700;
+}
+.balance_text {
+}
+.logo img {
+  width: 2.8rem;
+  height: 2.8rem;
+}

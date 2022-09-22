@@ -1,0 +1,33 @@
+.month {
+  display: flex;
+  justify-content: space-between;
+  justify-items: flex-end;
+  padding-top: 2.5rem;
+  padding-bottom: 2rem;
+  gap: 3rem;
+  margin: 1rem;
+
+  box-shadow: 0 -0.2px 0 0 #93867b; /* Border top */
+}
+.balance_text_month {
+  font-size: 0.8rem;
+  color: #93867b;
+}
+.balance_amount_month {
+  font-size: 2rem;
+  color: #382314;
+  font-weight: 700;
+}
+.balance_text_percent {
+  font-size: 1rem;
+  color: #382314;
+  font-weight: 700;
+}
+.balance_amount_month_percent {
+  font-size: 0.8rem;
+  color: #93867b;
+}
+.percent {
+  align-self: center;
+  text-align: right;
+}
